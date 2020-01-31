@@ -2,8 +2,8 @@
   "private": true,
   "description": "Checks that the WebIDL grammar is LL(1)",
   "devDependencies": {
-    "jsdom": "^11.3.0",
-    "syntax-cli": "0.0.97",
+    "jsdom": "^16.0.1",
+    "syntax-cli": "0.1.13",
     "webidl-grammar-post-processor": "^0.4.0"
   },
   "scripts": {
