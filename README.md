@@ -1,6 +1,8 @@
 Web IDL
 =======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/devcode1981/webidl.svg)](https://greenkeeper.io/)
+
 This is the primary repository in which the Web IDL specification is developed.
 
 * [Latest Editor’s Draft](http://heycam.github.io/webidl/)
